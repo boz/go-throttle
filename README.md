@@ -1,4 +1,4 @@
-# go-throttle [![Build Status](https://travis-ci.org/boz/go-throttle.svg?branch=master)](https://travis-ci.org/boz/go-throttle)
+# go-throttle [![GoDoc](https://godoc.org/github.com/boz/go-throttle?status.svg)](https://godoc.org/github.com/boz/go-throttle) [![Build Status](https://travis-ci.org/boz/go-throttle.svg?branch=master)](https://travis-ci.org/boz/go-throttle)
 
 Package `throttle` provides functionality to limit the frequency with which code is called
 
